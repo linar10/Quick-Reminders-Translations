@@ -1,20 +1,20 @@
 <resources>
     <string name="about">
         <![CDATA[<b>Quick Reminders:</b>
-        <br/>\u2022Pin Notes &amp; Reminders to your notification pull-down.
+        <br/>\u2022Przypięte Notatki &amp; Przypomnienia w rozwijanym panelu powiadomień.
         <br/><br/><b>Designed &amp; Developed By:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
-        <br/><br/><b>Translations By:</b>
+        <br/><br/><b>Tłumacze:</b>
         <br/>\u2022 G Alarco/@guillerag - Spanish
 	    <br/>\u2022 Sérgio Neto - Portuguese
 	    <br/>\u2022 Star Walking - Thai
             <br/>\u2022 linar10 - Polski
-        <br/><br/><b>Quick Tip\'s:</b>
-        <br/>\u2022 Create a high priority reminder to show an icon in the status bar.
-        <br/>\u2022 Low priority notifications are fully collapsible.
-        <br/>\u2022 Sticky notifications cannot be accidentally swiped away.
-        <br/>\u2022 Schedule a notification to appear at a specific time.
-        <br/><br/>Feel free to contact me directly &amp; don\'t forget to leave a review &#128512;]]></string>
+        <br/><br/><b>Szybkie Porady:</b>
+        <br/>\u2022 Utwórz przypomnienie o wysokim priorytecie, aby wyświetlić ikonę na pasku stanu.
+        <br/>\u2022 Powiadomienia o niskim priorytecie są w pełni zwijane.
+        <br/>\u2022 Przyklejone powiadomienia nie mogą zostać przypadkowo usunięte.
+        <br/>\u2022 Zaplanuj powiadomienie, które pojawi się o określonej godzinie.
+        <br/><br/>Zapraszam do bezpośredniego kontaktu ze mną &amp; Nie zapomnij zostawić opinii &#128512;]]></string>
     <string name="close">Zamknij</string>
     <string name="rate_app">Oceń Mnie</string>
     <string name="no">Nie</string>
