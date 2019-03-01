@@ -27,7 +27,7 @@
     <string name="sticky">Przyklej Powiadomienie</string>
     <string name="remind_max">Przypomnienie (%01d/400)</string>
     <string name="tile_max">Nazwa (%01d/32)</string>
-    <string name="random_colour">Losowy kolor podświetlenia</string>
+    <string name="random_colour">Losowy Kolor Podświetlenia</string>
     <string name="edit">Edytuj</string>
     <string name="notifs_off">Powiadomienia Shortcutter są wyłączone. Kliknij tutaj, aby przejść do ustawień i ponownie je włączyć.</string>
     <string name="email_feedback">Zgłaszanie Błędów</string>
